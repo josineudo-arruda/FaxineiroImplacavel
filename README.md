@@ -1,4 +1,4 @@
-# Biblioteca: Normalização e Organização de Banco de Dados
+# Faxineiro Implacável
 
 Este documento descreve o processo de criação e normalização do banco de dados `Biblioteca`, incluindo a criação de tabelas para livros, autores e editoras e o relacionamento entre elas.
 
